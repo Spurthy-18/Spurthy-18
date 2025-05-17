@@ -58,6 +58,5 @@
 
 ---
 
-## 🎯 Let's Connect
-If you're working on exciting electronics or embedded system projects, feel free to reach out!
+
 
